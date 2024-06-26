@@ -1,0 +1,32 @@
+name: go_case_go
+description: "Go case go. Travel with your case."
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.6 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  flutter_styled_toast: ^2.2.1
+  shared_preferences: ^2.2.2
+  local_auth: ^2.1.7
+  gap: ^3.0.1
+  intl: ^0.19.0
+  firebase_core: ^3.1.0
+  firebase_messaging: ^15.0.1
+  http: ^1.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543705943472",
+    "project_id": "gocasego",
+    "storage_bucket": "gocasego.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543705943472:android:c51c5bb39ca74e095b5a75",
+        "android_client_info": {
+          "package_name": "com.example.go_case_go"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtBDPT930_qt3anKR63n4oIoXL5g2nGIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
